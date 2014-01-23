@@ -2,8 +2,9 @@
 //  NAYAppDelegate.h
 //  Conway's Game of Life
 //
-//  Created by Jeff Schwab on 1/23/14.
-//  Copyright (c) 2014 Jeff Schwab. All rights reserved.
+//  Created by Spencer Fornaciari on 1/23/14.
+//  Copyright (c) 2014 Spencer Fornaciari. All rights reserved.
+//  Project with Jeff Schwab, Richard Lichkus and Matt Remick
 //
 
 #import <UIKit/UIKit.h>
